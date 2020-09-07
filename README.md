@@ -68,3 +68,5 @@
 ## Border Color (border-color)
 ### You can specify the color of a border using either RGB values, hex codes or CSS color names.
 ### It is possible to individually control the colors of the borders on different sides of a box using: border-top-color, border-right-color, border-bottom-color, border-left-color
+![border color](https://user-images.githubusercontent.com/70091044/92379039-6e90ac80-f10f-11ea-8ed1-daeb176382d2.PNG)
+### The border property allows you to specify the width, style and color of a border in one property (and the values should be coded in that specific order).
