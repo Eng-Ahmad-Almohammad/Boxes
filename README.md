@@ -17,3 +17,18 @@
 ![overflow](https://user-images.githubusercontent.com/70091044/92376169-da244b00-f10a-11ea-873d-a1e87440dfd2.PNG)
 ## Border, Margin & Padding
 ### Every box has three available properties that can be adjusted to control its appearance:
+![border](https://user-images.githubusercontent.com/70091044/92376401-32f3e380-f10b-11ea-8fa0-29a0357a6c14.PNG)
+## Border Width border-width
+### The border-width property is used to control the width of a border. The value of this property can either be given in pixels or using one of the following values:
+[x] thin
+[x] medium
+[x] thick
+####(You cannot use percentages with this property.)
+### You can control the individual size of borders using four separate properties:
+[x] border-top-width
+[x] border-right-width
+[x] border-bottom-width
+[x] border-left-width
+### You can also specify different widths for the four border values in one property, like so:
+### border-width: 2px 1px 1px 2px;
+#### The values here appear in clockwise order: top, right, bottom, left.
