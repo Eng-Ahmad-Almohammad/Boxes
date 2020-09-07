@@ -75,3 +75,6 @@
 ### The padding property allows you to specify how much space should appear between the content of an element and its border.
 ### The value of this property is most often specified in pixels (although it is also possible to use percentages or ems).
 ### You can specify different values for each side of a box using: padding-top, padding-right, padding-bottom, padding-left
+![Padding](https://user-images.githubusercontent.com/70091044/92379543-52413f80-f110-11ea-8912-fb2bc1feb0f5.PNG)
+## Margin
+### The margin property controls the gap between boxes. Its value is commonly given in pixels, although you may also use percentages or ems.
