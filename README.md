@@ -70,3 +70,8 @@
 ### It is possible to individually control the colors of the borders on different sides of a box using: border-top-color, border-right-color, border-bottom-color, border-left-color
 ![border color](https://user-images.githubusercontent.com/70091044/92379039-6e90ac80-f10f-11ea-8ed1-daeb176382d2.PNG)
 ### The border property allows you to specify the width, style and color of a border in one property (and the values should be coded in that specific order).
+![border short](https://user-images.githubusercontent.com/70091044/92379193-b9aabf80-f10f-11ea-82d9-6691563185e0.PNG)
+## padding
+### The padding property allows you to specify how much space should appear between the content of an element and its border.
+### The value of this property is most often specified in pixels (although it is also possible to use percentages or ems).
+### You can specify different values for each side of a box using: padding-top, padding-right, padding-bottom, padding-left
