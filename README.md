@@ -32,3 +32,4 @@
 ### You can also specify different widths for the four border values in one property, like so:
 ### border-width: 2px 1px 1px 2px;
 #### The values here appear in clockwise order: top, right, bottom, left.
+![border width](https://user-images.githubusercontent.com/70091044/92377499-e7dad000-f10c-11ea-9285-b2ca84c48e68.PNG)
