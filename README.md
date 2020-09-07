@@ -14,3 +14,6 @@
 ### The overflow property tells the browser what to do if the content contained within a box is larger than the box itself. It can have one of two values:
 ### *hidden*: This property simply hides any extra content that does not fit in the box.
 ### *scroll*: This property adds a scrollbar to the box so that users can scroll to see the missing content.
+![overflow](https://user-images.githubusercontent.com/70091044/92376169-da244b00-f10a-11ea-873d-a1e87440dfd2.PNG)
+## Border, Margin & Padding
+### Every box has three available properties that can be adjusted to control its appearance:
