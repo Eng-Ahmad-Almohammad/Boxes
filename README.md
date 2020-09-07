@@ -18,18 +18,49 @@
 ## Border, Margin & Padding
 ### Every box has three available properties that can be adjusted to control its appearance:
 ![border](https://user-images.githubusercontent.com/70091044/92376401-32f3e380-f10b-11ea-8fa0-29a0357a6c14.PNG)
-## Border Width border-width
+## Border Width (border-width)
 ### The border-width property is used to control the width of a border. The value of this property can either be given in pixels or using one of the following values:
-[x] thin
-[x] medium
-[x] thick
+
+- [x] thin
+
+- [x] medium
+
+- [x] thick
+
 ####(You cannot use percentages with this property.)
 ### You can control the individual size of borders using four separate properties:
-[x] border-top-width
-[x] border-right-width
-[x] border-bottom-width
-[x] border-left-width
+
+- [x] border-top-width
+
+- [x] border-right-width
+
+- [x] border-bottom-width
+
+- [x] border-left-width
+
 ### You can also specify different widths for the four border values in one property, like so:
 ### border-width: 2px 1px 1px 2px;
 #### The values here appear in clockwise order: top, right, bottom, left.
 ![border width](https://user-images.githubusercontent.com/70091044/92377499-e7dad000-f10c-11ea-9285-b2ca84c48e68.PNG)
+## Border Style (border-style)
+### You can control the style of a border using the border-style property. This property can take the following values:
+
+- [x] solid a single solid line 
+
+-[x] dotted a series of square dots (if your border is 2px wide, then the dots are 2px squared with a 2px gap between each dot)
+
+- [x] dashed a series of short lines
+
+- [x] double two solid lines (the value of the border-width property creates the sum of the two lines)
+
+- [x] groove appears to be carved into the page
+
+- [x] ridge appears to stick out from the page
+
+- [x] inset appears embedded into the page
+
+-[x] outset looks like it is coming out of the screen
+
+-[x] hidden / none no border is shown
+
+### You can individually change the styles of different borders using: border-top-style, border-left-style, border-right-style, border-bottom-style
