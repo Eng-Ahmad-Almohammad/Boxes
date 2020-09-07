@@ -64,3 +64,7 @@
 -[x] hidden / none no border is shown
 
 ### You can individually change the styles of different borders using: border-top-style, border-left-style, border-right-style, border-bottom-style
+![border style](https://user-images.githubusercontent.com/70091044/92378680-dc88a400-f10e-11ea-96fc-9d7ca5c1892b.PNG)
+## Border Color (border-color)
+### You can specify the color of a border using either RGB values, hex codes or CSS color names.
+### It is possible to individually control the colors of the borders on different sides of a box using: border-top-color, border-right-color, border-bottom-color, border-left-color
